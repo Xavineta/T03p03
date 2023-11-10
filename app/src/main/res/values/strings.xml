@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">T03p03</string>
+    <string name="day_1">Day 1</string>
+    <string name="day1_text">Navigate on the sea</string>
+    <string name="day1_description">
+        Sailing the open waves, a dance with the wind,
+        horizons, a journey to find.
+        Guided by stars, the sea whispers a tale,
+        Adventure unfolds, as the ship sets sail.
+    </string>
+
+    <string name="day_2">Day 2</string>
+    <string name="day2_text">Walking on the street</string>
+    <string name="day2_description">
+        Strolling through city streets, a rhythmic beat,
+        Concrete pathways beneath busy feet.
+        Urban scenes unfold with every stride,
+        City life stories in each step reside
+    </string>
+
+    <string name="day_3">Day 3</string>
+    <string name="day3_text">Watch the rising sun</string>
+    <string name="day3_description">
+        The sun ascends, painting skies with gold,
+        Warming the earth as new tales unfold.
+        A symphony of hues in the morning light,
+        Welcoming a new day, chasing away the night.
+    </string>
+
+    <string name="day_4">Day 4</string>
+    <string name="day4_text"> Wacht the cliff sunset</string>
+    <string name="day4_description">
+        At the cliffs edge, the sun takes its bow,
+        Casting a warm, amber glow.
+        Silhouettes dance as daylight wanes,
+        A cliffside sunset, where beauty remains.
+    </string>
+
+    <string name="day_5">Day 5</string>
+    <string name="day5_text">View the construction site</string>
+    <string name="day5_description">
+        Amidst the clang of tools and concretes embrace,
+        A construction site, a bustling space.
+        Steel frames rise, a symphony of progress,
+        Crafting the future, in the dusts finesse.
+    </string>
+
+    <string name="day_6">Day 6</string>
+    <string name="day6_text">Explore the desert</string>
+    <string name="day6_description">
+        Endless dunes stretch neath the suns fierce glare,
+        Whispers of wind in the arid air.
+        Silent echoes in the vast expanse,
+        A deserts beauty, a timeless dance.
+    </string>
+
+    <string name="day_7">Day 7</string>
+    <string name="day7_text">Swim across the cliff</string>
+    <string name="day7_description">
+        Beneath towering cliffs, a daring leap,
+        Into the depths, a journey deep.
+        Cool waters embrace, an exhilarating thrill,
+        Swimming across the cliff, a venture still.
+    </string>
+</resources>

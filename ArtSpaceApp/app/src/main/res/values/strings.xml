@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="app_name">ArtSpaceApp</string>
+    <string name="imagen_viriato">La muerte de Viriato</string>
+    <string name="imagen_caida_roma">"La caída de Roma</string>
+    <string name="imagen_tercios">Tercios españoles</string>
+    <string name="imagen_cruzadas">Cruzados</string>
+
+
+    <string name="title_viriato">La muerte de Viriato</string>
+    <string name="title_roma_caida">Caída de Roma</string>
+    <string name="title_tercios">Tercios españoles</string>
+    <string name="title_cruzados">Cruzados</string>
+
+
+    <string name="artist_viriato">José de Madrazo\n</string>
+    <string name="artist_roma_caida">Thomas Cole</string>
+    <string name="artist_tercios">Augusto Ferrer-Dalmau</string>
+    <string name="artist_cruzados">Anónimo</string>
+    <string name="year_viriato">1807</string>
+    <string name="year_roma_caida">1836</string>
+    <string name="year_tercios">2011</string>
+    <string name="year_cruzados">2010</string>
+
+</resources>

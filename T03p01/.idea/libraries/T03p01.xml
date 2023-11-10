@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="T03p01">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Codelab.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ArtSpaceApp.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
