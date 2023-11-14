@@ -1,0 +1,13 @@
+En un paso de cebra, compartido por peatones y vehículos,
+que su paso está controlado por un semáforo que contra
+el tráfico.
+
+Los peatones y vehículos deben pedir permiso para cruzar
+el paso de cebra antes de cruzar.
+
+El semáforo tiene dos estados, rojo y verde. Si está en verde
+se puede cruzar.
+
+No pueden cruzar a la vez peatones y vehículos.
+Asegurarse de que el semáfaro cambia de estado después
+de un tiempo aleatorio para silumar el cambio de luces.

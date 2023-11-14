@@ -2,8 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/PSP Conferencias" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/PSP Granja de pollos" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/PSP_Cine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/T03p02" vcs="Git" />
   </component>
 </project>
