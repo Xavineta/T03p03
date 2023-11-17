@@ -4,6 +4,7 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.Image
+import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
@@ -61,14 +62,17 @@ fun SevenDaysApp() {
 @Composable
 private fun SevenDaysCard(
     modifier: Modifier,
-    day: Day
+    day: Day,
+    expand:()->Unit
 ) {
 
     Card(
         modifier = Modifier
             .size(width = 70.dp, height = 250.dp)
-            .padding(10.dp),
-
+            .padding(10.dp)
+            .clickable {
+                       Modifier.size(100.dp,300.dp)
+            },
     ) {
         Row(modifier = Modifier
             .padding(start = 15.dp, top = 10.dp)
