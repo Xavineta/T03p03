@@ -54,7 +54,7 @@ fun SevenDaysApp() {
         columns = GridCells.Fixed(1),
         content = {
             items(DataSource.days) {
-                SevenDaysCard(modifier = Modifier, day = it)
+         //       SevenDaysCard(modifier = Modifier, day = it)
             }
         })
 }
